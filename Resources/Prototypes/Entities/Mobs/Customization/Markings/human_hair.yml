@@ -958,6 +958,13 @@
     - sprite: Mobs/Customization/human_hair.rsi
       state: stail
 - type: marking
+  id: HumanHairLongBangsponytail
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: Mobs/Customization/human_hair.rsi
+      state: longbangsponytail
+- type: marking
   id: HumanHairLongstraightponytail
   bodyPart: Hair
   markingCategory: Hair

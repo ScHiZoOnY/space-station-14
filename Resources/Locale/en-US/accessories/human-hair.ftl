@@ -138,6 +138,7 @@ marking-HumanHairPonytail7 = Ponytail 7
 marking-HumanHairHighponytail = Ponytail (High)
 marking-HumanHairStail = Ponytail (Short)
 marking-HumanHairLongstraightponytail = Ponytail (Long)
+marking-HumanHairLongBangsponytail = Ponytail (Long with bangs)
 marking-HumanHairCountry = Ponytail (Country)
 marking-HumanHairFringetail = Ponytail (Fringe)
 marking-HumanHairSidetail = Ponytail (Side)
